@@ -1,12 +1,6 @@
-## Hi there 👋
+## Welcome to the home of RBXQoL and RBXINFO, on github! 👋
+This is the Github page you can download mods, services and plugins from. 
 
-<!--
+Ask about is in the RBXIDLE [discord server!](https://discord.gg/rbxidle)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#Ad: CatPow coming soon! ONLY 2% DEV FEE, BEST MINER FOR RBXIDLE!!! [get now](https://github.com/coolcatclub/catpow-miner)
